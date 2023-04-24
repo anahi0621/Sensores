@@ -11,9 +11,9 @@
 ## Depto de Sistemas y Computación
 ## Ing. En Sistemas Computacionales
 ## SISTEMAS PROGRAMABLES 23a
-## Autor (es): ___________
-## Repositorio:  
-## Fecha de revisión:   99/99/2023
+## Autor (es): Sandoval Arce Edson Arath
+## Repositorio:  Sensores
+## Fecha de revisión:   23/04/2023
 ## Objetivo:
 ##   
 
